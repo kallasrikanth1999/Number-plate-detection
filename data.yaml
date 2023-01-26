@@ -1,0 +1,4 @@
+train: '/content/drive/MyDrive/Car number plate/train/'
+val: '/content/drive/MyDrive/Car number plate/test/'
+nc: 1
+names: ["licence Plate"]
